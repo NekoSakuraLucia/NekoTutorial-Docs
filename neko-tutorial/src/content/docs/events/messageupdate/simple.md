@@ -1,5 +1,5 @@
 ---
-title: ตัวอย่างการใช้ messageCreate
+title: ตัวอย่างการใช้ messageUpdate
 description: ใช้เพื่อจับข้อความใหม่ที่ถูกส่งในช่องแชทของ Discord เมื่อมีข้อความใหม่โพสต์เข้ามาในเซิร์ฟเวอร์
 ---
 
@@ -19,6 +19,6 @@ client.on('messageUpdate', (oldMessage, newMessage) => {
 -----
 
 <p align="right">
-หน้านี้แก้ใขล่าสุดเมื่อ 2 ม.ค พ.ศ 2568 เวลา 15:24 น. <br />
+หน้านี้แก้ใขล่าสุดเมื่อ 2 ม.ค พ.ศ 2568 เวลา 15:28 น. <br />
 Edit page by: NekoSakuraLucia
 </p>
