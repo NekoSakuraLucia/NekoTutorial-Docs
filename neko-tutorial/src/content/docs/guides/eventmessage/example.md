@@ -55,3 +55,10 @@ client.on('messageCreate', (message) => {
 
 ### 6. ข้อควรระวัง
 ใน Discord.js, MessageContent intent ต้องเปิดใช้งานใน Developer Portal ของบอท หากบอทไม่สามารถอ่านข้อความได้ ให้เข้าไปที่ Discord Developer Portal, เลือกบอทของคุณ และเปิด Intent MESSAGE CONTENT INTENT.
+
+-----
+
+<p align="right">
+หน้านี้แก้ใขล่าสุดเมื่อ 2 ม.ค พ.ศ 2568 เวลา 15:03 น. <br />
+Edit page by: NekoSakuraLucia
+</p>
