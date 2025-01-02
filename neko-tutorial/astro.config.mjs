@@ -22,7 +22,8 @@ export default defineConfig({
 				{
 					label: 'Event Message',
 					items: [
-						{ label: 'ตัวอย่าง messageUpdate', slug: 'events/messageupdate/simple' }
+						{ label: 'ตัวอย่าง messageUpdate', slug: 'events/messageupdate/simple' },
+						{ label: 'ตัวอย่าง messageDelete', slug: 'events/messagedelete/simple' }
 					]
 				}
 			],
