@@ -25,7 +25,8 @@ export default defineConfig({
 						{ label: 'ตัวอย่าง messageUpdate', slug: 'events/messageupdate/simple' },
 						{ label: 'ตัวอย่าง messageDelete', slug: 'events/messagedelete/simple' },
 						{ label: 'ตัวอย่าง messageDeleteBulk', slug: 'events/messagedeletebulk/simple' },
-						{ label: 'ตัวอย่าง messageReaction', slug: 'events/messagereaction/simple' }
+						{ label: 'ตัวอย่าง messageReaction', slug: 'events/messagereaction/simple' },
+						{ label: 'ตัวอย่าง Guild Member Event', slug: 'events/guilds/simple' }
 					]
 				}
 			],
