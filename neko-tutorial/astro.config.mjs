@@ -19,10 +19,6 @@ export default defineConfig({
 						{ label: 'วิธีการใช้งาน Event Message', slug: 'guides/eventmessage/example' },
 					],
 				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
 			],
 			editLink: {
 				baseUrl: 'https://github.com/NekoSakuraLucia/NekoTutorial-Docs/edit/main/neko-tutorial',
