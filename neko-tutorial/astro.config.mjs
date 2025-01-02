@@ -16,6 +16,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'วิธีการติดตั้งเบื้องต้น', slug: 'guides/installation/example' },
+						{ label: 'วิธีการใช้งาน Event Message', slug: 'guides/eventmessage/example' },
 					],
 				},
 				{
@@ -23,6 +24,9 @@ export default defineConfig({
 					autogenerate: { directory: 'reference' },
 				},
 			],
+			editLink: {
+				baseUrl: 'https://github.com/NekoSakuraLucia/NekoTutorial-Docs/edit/main/neko-tutorial',
+			},
 		}),
 	],
 });

@@ -97,5 +97,3 @@ Logged in as NekoToturial-BOT!
 หน้านี้แก้ใขล่าสุดเมื่อ 2 ม.ค พ.ศ 2568 <br />
 Edit page by: NekoSakuraLucia
 </p>
-
-[Edit this page on GitHub](https://github.com/NekoSakuraLucia/NekoTutorial-Docs/blob/main/neko-tutorial/src/content/docs/guides/installation/example.md)
