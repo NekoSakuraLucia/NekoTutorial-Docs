@@ -17,6 +17,7 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'วิธีการติดตั้งเบื้องต้น', slug: 'guides/installation/example' },
 						{ label: 'วิธีการใช้งาน Event Message', slug: 'guides/eventmessage/example' },
+						{ label: 'วิธีการใช้งาน Activity Status', slug: 'guides/activity/example' },
 						{ label: 'อธิบายเกี่ยวกับ GatewayIntentBits', slug: 'guides/gatewayintentbits/example' },
 					],
 				},
